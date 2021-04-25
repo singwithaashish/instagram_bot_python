@@ -83,6 +83,7 @@ def check_and_follow():
         # /html/body/div[5]/div/div/div[4]/button -> follow xpath
         # driver.execute_script("scroll(0, window.scrollY + 30)")
         # 
+        # new branch
     
     # print(driver.find_elements_by_xpath('//*[class:"g47SY" or class:"l0XF2"]')[1].text)
 
