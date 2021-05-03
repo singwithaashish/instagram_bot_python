@@ -1,7 +1,3 @@
 # instagram_bot_python
 
-lets see if this shows up on vs code
-
-
-okay, so im changing in main branch and now im gonna pull, to see if this shows up.
-for real this time
+this is a little selenium project of mine. This code instagram_bot.py logs you into your instagram account and follows everyone who has more followings than followers. the idea being they are guranteed to follow you back.
